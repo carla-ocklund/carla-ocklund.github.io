@@ -2,3 +2,11 @@ theme: minima
 name: Carla Ocklund Moncada
 description: Personal web site for Carla Ocklund Moncada
 url: "https://carla.ocklund.com"
+
+minima:
+  skin: solarized
+  social_links:
+    twitter: carlaocklund
+  
+author:
+  name: Carla Ocklund Moncada
