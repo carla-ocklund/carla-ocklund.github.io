@@ -1,4 +1,3 @@
-# Carla Ocklund Moncada
 
 Hi there!
 
